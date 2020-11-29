@@ -1,2 +1,2 @@
 # ISIT_220
-!picture (/.idea/NtKQ5KAS1H4.jpg)
+!picture (/arielen/ISIT_220/tree/main/.idea/NtKQ5KAS1H4.jpg)
