@@ -10,5 +10,5 @@ i-я ступенька состоит из чисел от 1 до i без пр
 n = int(input('Введите число: '))
 for number in range(1, n+1):
     for i in range(1, number+1):
-        print( i, sep='', end='')
+        print(i, sep='', end='')
     print()

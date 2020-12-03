@@ -18,4 +18,4 @@ for number in massive:
 if found is True:
     print('Наименьшее число: ', number_min)
 else:
-    print('No')
+    print('NO')
