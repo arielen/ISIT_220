@@ -10,3 +10,4 @@ a2 = int(input('Введите a2 = '))
 b2 = int(input('Введите b2 = '))
 c2 = int(input('Введите c2 = '))
 
+# TODO - сделать!
