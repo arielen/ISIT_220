@@ -7,6 +7,7 @@ t = Turtle()
 t.screen.setup(800, 800)
 t.width(5)
 t.color('#ff0004')
+t.speed(2)
 
 for fourth in range(1):
     t.down()

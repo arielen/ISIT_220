@@ -22,8 +22,26 @@ for six in range(1):
     t.fd(50)
     t.up()
 
-for three in range(1):
+for eight in range(1):
     t.goto(20, 0)
+    t.down()
+    t.left(90)
+    t.fd(100)
+    t.left(90)
+    t.fd(50)
+    t.left(90)
+    t.fd(50)
+    t.left(90)
+    t.fd(50)
+    t.bk(50)
+    t.right(90)
+    t.fd(50)
+    t.left(90)
+    t.fd(50)
+    t.up()
+
+for three in range(1):
+    t.goto(90, 0)
     t.down()
     t.bk(50)
     t.left(60)
@@ -37,7 +55,7 @@ for three in range(1):
     t.up()
 
 for two in range(1):
-    t.goto(90, 0)
+    t.goto(160, 0)
     t.down()
     t.bk(50)
     t.left(90)
@@ -49,23 +67,6 @@ for two in range(1):
     t.left(90)
     t.fd(50)
     t.up()
-
-for eight in range(1):
-    t.goto(160, 0)
-    t.down()
-    t.right(90)
-    t.fd(100)
-    t.left(90)
-    t.fd(50)
-    t.left(90)
-    t.fd(50)
-    t.left(90)
-    t.fd(50)
-    t.bk(50)
-    t.right(90)
-    t.fd(50)
-    t.left(90)
-    t.fd(50)
 
 t.screen.exitonclick()
 t.screen.mainloop()
